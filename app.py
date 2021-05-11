@@ -72,7 +72,7 @@ def main():
    <div class="col-md-12">
    <center><p style="font-size:40px;color:white;margin-top:10px;">MID TERM - I</p></center>
    <center><p style="font-size:30px;color:white;margin-top:10px;">NAME: MOHIT MATHUR</p></center>
-   <center><p style="font-size:25px;color:white;margin-top:0px;">|| PIET18CS092 || Sec: B || Roll No 35 ||</p></center>
+   <center><p style="font-size:25px;color:white;margin-top:0px;">-- PIET18CS092 -- Sec: B -- Roll No 35 --</p></center>
    </div>
    </div>
    </div>
